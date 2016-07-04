@@ -1,0 +1,33 @@
+{
+  "name": "VIDIMAX",
+  "date": "2015.05.26",
+  "version": "1.5.10",
+  "description": "Vidmax includes licensed video library that contains thousands of popular products: Movies - artistic and documentary, series, cartoons, sports, TV programs and shows in HD quality.",
+  "author": {
+    "name": "StalkerApps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StalkerApps/vidimax.git"
+  },
+  "config": {
+    "type": "app",
+    "category": "apps",
+    "backgroundColor": "#ffffff",
+    "name": "VIDIMAX",
+    "legacy": true,
+    "description": "Vidmax includes licensed video library that contains thousands of popular products: Movies - artistic and documentary, series, cartoons, sports, TV programs and shows in HD quality.",
+    "icons": {
+      "paths": {
+        "480": "img/480/",
+        "576": "img/576/",
+        "720": "img/720/",
+        "1080": "img/1080/"
+      },
+      "states": {
+        "normal": "normal.png",
+        "active": "active.png"
+      }
+    }
+  }
+}
